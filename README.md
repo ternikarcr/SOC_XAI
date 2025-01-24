@@ -50,7 +50,6 @@ This repository contains a collection of scripts and models for analyzing Soil O
    
 ## File Structure
 
-- **/SOC**: Contains dataset files and output visualizations.
 - **1Dataset\_prep.R**: Data preprocessing script.
 - **1SOC\_NN.R**: Nearest neighbor and PLSR script.
 
