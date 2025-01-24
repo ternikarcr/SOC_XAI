@@ -58,10 +58,6 @@ This repository contains a collection of scripts and models for analyzing Soil O
 
 This project leverages data and methods from the field of soil spectroscopy and explainable AI. Special thanks to the open-source libraries and contributors.
 
-## License
-
-This repository is licensed under the MIT License. See `LICENSE` for details.
-
 ---
 
 For any issues or questions, please feel free to raise a GitHub issue or contact the repository maintainer.
