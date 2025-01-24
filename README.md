@@ -1,5 +1,4 @@
 # SOC_XAI
-# Soil Organic Carbon Analysis
 This repository contains a collection of scripts and models for analyzing Soil Organic Carbon (SOC) data using Traditional method and Explainable AI methods for SOC prediction using VNIR lab spectroscopy (OSSL). The project explores SOC prediction through explainable AI frameworks.
 
 ## Contents
